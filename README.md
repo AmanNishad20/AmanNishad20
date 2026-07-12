@@ -39,8 +39,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-Temporarily%20Unavailable-red?style=for-the-badge" alt="GitHub Stats unavailable" />
-  <img src="https://img.shields.io/badge/Top%20Languages-Temporarily%20Unavailable-red?style=for-the-badge" alt="Top Languages unavailable" />
+  <a href="https://github.com/AmanNishad20?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-View%20Repositories-2563eb?style=for-the-badge&logo=github" alt="View repositories" />
+  </a>
+  <a href="https://github.com/AmanNishad20?tab=projects">
+    <img src="https://img.shields.io/badge/Top%20Languages-See%20GitHub%20Insights-111827?style=for-the-badge&logo=github" alt="See GitHub insights" />
+  </a>
 </p>
 
 <p align="center">
@@ -64,13 +68,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AmanNishad20/Play-Tube"><strong>Play-Tube</strong></a> ·
-  <a href="https://github.com/AmanNishad20/TempMailBot"><strong>TempMailBot</strong></a> ·
-  <a href="https://github.com/AmanNishad20/TestingBot"><strong>TestingBot</strong></a>
+  <strong><a href="https://github.com/AmanNishad20/Play-Tube">Play-Tube</a></strong> ·
+  <strong><a href="https://github.com/AmanNishad20/TempMailBot">TempMailBot</a></strong> ·
+  <strong><a href="https://github.com/AmanNishad20/TestingBot">TestingBot</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmanNishad20/Play-Tube">Play-Tube</a> | <a href="https://github.com/AmanNishad20/TempMailBot">TempMailBot</a> | <a href="https://github.com/AmanNishad20/TestingBot">TestingBot</a>
+  A modern video platform, an automated temporary mail tool, and a testing/automation bot, all easy to explore directly on GitHub.
 </p>
 
 ---
