@@ -14,34 +14,17 @@
 
 ## ✨ About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p align="center">
+  <strong>Passionate full stack developer</strong> who loves building scalable backend systems, practicing DSA in C++, and exploring Docker, system design, and cloud workflows. My goal is to craft products that solve real problems while keeping the code clean, thoughtful, and maintainable.
+</p>
 
-- 💻 Passionate full stack developer
-- ⚡ Love building scalable backend systems
-- 🧠 Regular DSA practice in C++
-- 🌱 Exploring Docker, System Design, and Cloud
-- 🎯 Goal: build products that solve real problems
+<p align="center">
+  <em>Current learning:</em> advanced system design, Docker and container workflows, better deployment and automation patterns, and open source collaboration habits.
+</p>
 
-    </td>
-    <td valign="top" width="50%">
-
-### 📚 Current Learning
-- Advanced system design
-- Docker and container workflows
-- Better deployment and automation patterns
-- Open source collaboration habits
-
-### 🚀 2026 Goals
-- Ship more polished full stack projects
-- Strengthen backend architecture skills
-- Contribute consistently to open source
-- Grow my GitHub presence with better project storytelling
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>2026 goals:</em> ship more polished full stack projects, strengthen backend architecture skills, contribute consistently to open source, and grow my GitHub presence with better project storytelling.
+</p>
 
 ---
 
@@ -56,24 +39,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://ghstats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanNishad20&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AmanNishad20&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanNishad20&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanNishad20&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ## 📊 Better Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanNishad20&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanNishad20&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
@@ -81,25 +64,15 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/AmanNishad20/Play-Tube">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/AmanNishad20/TempMailBot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/AmanNishad20/TestingBot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TestingBot&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/AmanNishad20/Play-Tube">
+    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight" alt="Play-Tube" />
+  </a>
+  <a href="https://github.com/AmanNishad20/TempMailBot">
+    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight" alt="TempMailBot" />
+  </a>
+  <a href="https://github.com/AmanNishad20/TestingBot">
+    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=TestingBot&theme=tokyonight" alt="TestingBot" />
+  </a>
 </div>
 
 ---
@@ -107,7 +80,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://github.com/AmanNishad20/AmanNishad20/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
