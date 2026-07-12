@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -63,23 +63,21 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <p>
-    <a href="https://github.com/AmanNishad20/Play-Tube">Play-Tube</a> ·
-    <a href="https://github.com/AmanNishad20/TempMailBot">TempMailBot</a> ·
-    <a href="https://github.com/AmanNishad20/TestingBot">TestingBot</a>
-  </p>
-
+<p align="center">
   <a href="https://github.com/AmanNishad20/Play-Tube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight&hide_border=true" alt="Play-Tube" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Play-Tube" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/AmanNishad20/TempMailBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight&hide_border=true" alt="TempMailBot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TempMailBot" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/AmanNishad20/TestingBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TestingBot&theme=tokyonight&hide_border=true" alt="TestingBot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TestingBot&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TestingBot" />
   </a>
-</div>
+</p>
 
 ---
 
