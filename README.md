@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Temporarily%20Unavailable-red?style=for-the-badge" alt="GitHub Stats unavailable" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Temporarily%20Unavailable-red?style=for-the-badge" alt="Top Languages unavailable" />
 </p>
 
 <p align="center">
@@ -64,19 +64,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AmanNishad20/Play-Tube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Play-Tube" />
-  </a>
+  <a href="https://github.com/AmanNishad20/Play-Tube"><strong>Play-Tube</strong></a> ·
+  <a href="https://github.com/AmanNishad20/TempMailBot"><strong>TempMailBot</strong></a> ·
+  <a href="https://github.com/AmanNishad20/TestingBot"><strong>TestingBot</strong></a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/AmanNishad20/TempMailBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TempMailBot" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AmanNishad20/TestingBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TestingBot&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TestingBot" />
-  </a>
+  <a href="https://github.com/AmanNishad20/Play-Tube">Play-Tube</a> | <a href="https://github.com/AmanNishad20/TempMailBot">TempMailBot</a> | <a href="https://github.com/AmanNishad20/TestingBot">TestingBot</a>
 </p>
 
 ---
