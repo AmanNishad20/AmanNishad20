@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://ghstats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanNishad20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -64,14 +64,20 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+  <p>
+    <a href="https://github.com/AmanNishad20/Play-Tube">Play-Tube</a> ·
+    <a href="https://github.com/AmanNishad20/TempMailBot">TempMailBot</a> ·
+    <a href="https://github.com/AmanNishad20/TestingBot">TestingBot</a>
+  </p>
+
   <a href="https://github.com/AmanNishad20/Play-Tube">
-    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight" alt="Play-Tube" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=Play-Tube&theme=tokyonight&hide_border=true" alt="Play-Tube" />
   </a>
   <a href="https://github.com/AmanNishad20/TempMailBot">
-    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight" alt="TempMailBot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TempMailBot&theme=tokyonight&hide_border=true" alt="TempMailBot" />
   </a>
   <a href="https://github.com/AmanNishad20/TestingBot">
-    <img src="https://gh-pinned-items.vercel.app/?username=AmanNishad20&repo=TestingBot&theme=tokyonight" alt="TestingBot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanNishad20&repo=TestingBot&theme=tokyonight&hide_border=true" alt="TestingBot" />
   </a>
 </div>
 
@@ -80,7 +86,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AmanNishad20/AmanNishad20/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
