@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,100:2563eb&text=Aman%20Nishad&fontColor=ffffff&fontSize=52&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,100:2563eb&fontColor=ffffff&fontSize=52&animation=fadeIn" />
   <h1>👋 Hi, I'm Aman Nishad</h1>
   <p><strong>Full Stack Developer</strong> • <strong>C++ Programmer</strong> • <strong>DSA Enthusiast</strong></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+modern+web+experiences;Learning+something+new+every+day;Node.js+%7C+React+%7C+MongoDB+%7C+C%2B%2B" />
