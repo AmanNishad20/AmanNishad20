@@ -39,6 +39,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmanNishad20&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 📊 Better Analytics
@@ -52,7 +53,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 
