@@ -1,71 +1,17 @@
-<div align="center">
-  <h1>👋 Hi, I'm Aman Nishad</h1>
-  <p><strong>Full Stack Developer</strong> • <strong>C++ Programmer</strong> • <strong>DSA Enthusiast</strong></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+modern+web+experiences;Learning+something+new+every+day;Node.js+%7C+React+%7C+MongoDB+%7C+C%2B%2B" />
-</div>
+# Aman Nishad
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Clean%20Code%20%26%20Smart%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focused%20On-Shipping%20Useful%20Products-2563eb?style=for-the-badge" />
-</p>
+Full Stack Developer · C++ · DSA
 
+Personal GitHub profile repository showcasing my development work, learning focus, and selected technologies.
 
+## Focus
+- Full-stack web development with React and Node.js
+- Backend development and APIs
+- C++ and data structures & algorithms
+- Docker, deployment, and practical system design
 
-## ✨ About Me
+## Tech
+C++ · JavaScript · TypeScript · React · Node.js · Express · MongoDB · MySQL · Docker · Git · Linux
 
-<p align="center">
-  <strong>Passionate full stack developer</strong> who loves building scalable backend systems, practicing DSA in C++, and exploring Docker, system design, and cloud workflows. My goal is to craft products that solve real problems while keeping the code clean, thoughtful, and maintainable.
-</p>
-
-<p align="center">
-  <em>Current learning:</em> advanced system design, Docker and container workflows, better deployment and automation patterns, and open source collaboration habits.
-</p>
-
-<p align="center">
-  <em>2026 goals:</em> ship more polished full stack projects, strengthen backend architecture skills, contribute consistently to open source, and grow my GitHub presence with better project storytelling.
-</p>
-
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,express,react,nextjs,mongodb,mysql,docker,git,github,vscode,linux" />
-</p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmanNishad20&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNishad20&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 📊 Better Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanNishad20&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AmanNishad20/AmanNishad20/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:realredmi9i@gmail.com">
-    <img src="https://img.shields.io/badge/Email-realredmi9i%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## Contact
+GitHub: https://github.com/AmanNishad20
