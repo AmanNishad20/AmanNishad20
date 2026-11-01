@@ -7,9 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanNishad20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:realredmi9i@gmail.com">
-    <img src="https://img.shields.io/badge/Email-realredmi9i%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
-  </a>
 </p>
 
 ---
